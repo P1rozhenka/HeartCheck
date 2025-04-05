@@ -1,6 +1,6 @@
 # напиши здесь код основного приложения и первого экрана
 from PyQt5.QtCore import Qt
-from PyQt5.QtWidgets import QApplication, QWidget, QLabel, QHBoxLayout, QVBoxLayout, QPushButton
+from PyQt5.QtWidgets import QApplication, QWidget, QLabel, QHBoxLayout, QVBoxLayout, QPushButton, QLineEdit
 from instr import *
 from second_win import TestWin
 class MainWin(QWidget):
